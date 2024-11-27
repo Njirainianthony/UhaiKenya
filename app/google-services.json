@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230792434035",
+    "project_id": "antoproject-310da",
+    "storage_bucket": "antoproject-310da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230792434035:android:948d5048f7b66d5c7a3506",
+        "android_client_info": {
+          "package_name": "com.example.antoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mM6HjEpHT30HBHQxuR3pNzOl4ZhNwKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
